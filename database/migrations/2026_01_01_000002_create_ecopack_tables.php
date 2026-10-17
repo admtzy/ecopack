@@ -23,7 +23,7 @@ return new class extends Migration
             $t->string('product_code')->unique();
             $t->string('name');
             $t->text('description')->nullable();
-            $t->string('materials')->nullable();
+            $t->text('materials')->nullable();
             $t->text('production_info')->nullable();
             $t->text('end_of_life')->nullable();
             $t->string('approval_status')->default('pending');
