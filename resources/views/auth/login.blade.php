@@ -117,9 +117,9 @@
             </p>
 
             <!-- Informasi Akun Demo -->
-            <div class="demo-box">
+            <!-- <div class="demo-box">
                 <span class="muted">Demo: <strong>admin@ecopack.test</strong> / <strong>password</strong></span>
-            </div>
+            </div> -->
         </div>
     </div>
 </div>
